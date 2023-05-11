@@ -91,7 +91,7 @@ date_list = [time.strftime('%x', time.gmtime(acq_time/1000)) for acq_time in acq
 new_date_list = [f"{date[-2:]}_{date[:2]}_{date[3:5]}" for date in date_list]
 
 
-#%% Export Images to Google Drive ============================================
+#%% Function: Exporting Images to Google Drive ================================
 
 def export_to_drive(image, index):
     image_name = f'S1_GRD_{index}'
@@ -119,7 +119,7 @@ def export_to_drive(image, index):
 
     print('Task status:', task.status())
     
-#%% Export all images of a collection ========================================
+#%% Export all images from a collection ========================================
 
 image_list = im_coll.toList(im_coll.size())
 
