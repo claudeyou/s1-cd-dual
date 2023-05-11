@@ -1,5 +1,5 @@
 # Change Detection
-Put file link(Github link) in nbviewer to see full results(https://nbviewer.org/)
+Put .ipynb file link(Github link) in nbviewer to see full results(https://nbviewer.org/)
 
 -Bitemporal Change Detection
 -Multitemporal Change Detection
