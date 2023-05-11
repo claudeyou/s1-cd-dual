@@ -6,17 +6,17 @@ Put .ipynb file link(Github link) in nbviewer to see full results(https://nbview
 * Omnibus test for change
 * Loewner Order
 * results: cmap, fmap, smap, bmap, avimg(ATSF)
-- cmap: Recently changed
-- fmap: Frequency of change
-- smap: First change
-- bmap: Bitemporal Change map
-- avimg: Averaged Image(ATSF)
+  - cmap: Recently changed
+  - fmap: Frequency of change
+  - smap: First change
+  - bmap: Bitemporal Change map
+  - avimg: Averaged Image(ATSF)
 
 
 
 
 # Multi-temporal Filtering
 
--Adaptive Temporal Spatial Filtering(ATSF)
--RAtio BAsed multi-temporal SAR(RABASAR)
--ATSF + RABASAR
+## Adaptive Temporal Spatial Filtering(ATSF)
+## RAtio BAsed multi-temporal SAR(RABASAR)
+## ATSF + RABASAR
